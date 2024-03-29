@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 
-So guys this is 7th project of my 30 days frontend project challenge.
+So guys this is 7th project of my 25 days frontend project challenge.
 
 In this project i used HTML CSS and JavaScript
 
